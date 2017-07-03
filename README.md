@@ -1,2 +1,3 @@
 # hello-world
-inicios en github
+cambios
+prueba de cambios en GitHub para poder comenzar con un proyecto conjunto.
